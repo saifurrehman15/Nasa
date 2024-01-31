@@ -1,3 +1,6 @@
+* img{
+object-fit: cover;
+}
 .image1 ul li {
     display: inline;
     color: #fff;
@@ -263,7 +266,6 @@ input:focus {
 }
 
 .gaga {
-    border: 1px solid black;
     margin-top: -1px;
 }
 
